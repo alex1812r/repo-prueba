@@ -6,3 +6,5 @@ El lenguaje de programación SQL no solo permite realizar operaciones de selecci
 El SQL se usa para controlar todas las funciones que un sistema gestor de base de datos brinda a sus usuarios, proporcionando además un marco para crear la propia base de datos, gestionar su seguridad, actualizar sus contenidos, recuperar los datos y compartirlos entre diferentes usuarios.
 
 De hecho, la mayoría de los sistemas de gestión de base de datos relacionales usan el lenguaje de programación SQL para interactuar con la base de datos. Oracle es una de las herramientas para la gestión de bases de datos más conocida y usada, pero también se encuentran Microsoft SQL, MySQL y Access, entre otros.
+
+SELECT * FROM tablaeskere;
